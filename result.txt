@@ -1,0 +1,61 @@
+Start loading training data ...
+=============================================================
+> i would like to purchase some movie tickets please
+< what date and time would you like to go <EOS>
+=============================================================
+> how many tickets would you like
+< 2 <EOS>
+=============================================================
+> saturday march 12
+< how many are you want to purchase <EOS>
+=============================================================
+> id like tickets to a good drama movie please
+< certainly what kind of genre <EOS>
+=============================================================
+> friday at 10 pm
+< great how many tickets would you like <EOS>
+=============================================================
+> i have successfully purchased 3 tickets to the 930 show enjoy
+< thanks <EOS>
+=============================================================
+> oh cool yeah the 905 sounds good
+< great youve got 2 tickets to the 905pm showing enjoy the movie <EOS>
+=============================================================
+> the following showtimes are available 1100am 150pm 440 730 1015
+< could you tell me the cost for tickets <EOS>
+=============================================================
+> thank you
+< thank you for using our service good bye <EOS>
+=============================================================
+> yes around 5pm today
+< do you have a preference movie or genre in mind <EOS>
+=============================================================
+> thanks
+< thank you for using our service good bye <EOS>
+=============================================================
+> 37849
+< is there a movie theaters that sounds <EOS>
+=============================================================
+> 2d at 1240 will work is that for today
+< yes unless youd with that work for you <EOS>
+=============================================================
+> i would prefer standard
+< there is a 75 showing in philadelphia should i purchase the tickets <EOS>
+=============================================================
+> yes
+< i have purchased your tickets thank you and enjoy the show <EOS>
+=============================================================
+> tomorrow at 8pm
+< which theater do you <EOS>
+=============================================================
+> thanks
+< thank you for using our service good bye <EOS>
+=============================================================
+> can i get 2 tickets to see deadpool tomorrow at 8pm
+< what city and state are you located in <EOS>
+=============================================================
+> regal lloyd center 10 at 1005 please
+< i have purchased your tickets thank you and enjoy the show <EOS>
+=============================================================
+> thanks
+< thank you for using our service good bye <EOS>
